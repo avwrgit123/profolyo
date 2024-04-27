@@ -18,6 +18,6 @@
     <br>
     <iframe src="./lesson 2 Birthday Invite Project class.md" title="Birthday Invite" height="200"></iframe>
     <br>
-    <a href="./Contact Me.html">Contact Me</a>
+    <a href="./Contact Me.md">Contact Me</a>
 </body>
 </html>

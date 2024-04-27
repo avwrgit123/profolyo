@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me</title>
+</head>
+<body>
+    <h1>Contact Me</h1>
+    <p>Tel: +972 123456789</p>
+    <p>Email: Acontact@walla.co.il</p>
+    <p>Address:</p>
+    <p>Street:Ben-Guryon 46</p>
+    <p>City:Rehovot</p>
+    <p>Country:Israel</p>
+</body>
+</html>
